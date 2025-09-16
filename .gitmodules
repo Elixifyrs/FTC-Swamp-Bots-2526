@@ -1,0 +1,3 @@
+[submodule "EasyOpenCV"]
+	path = EasyOpenCV
+	url = https://github.com/OpenFTC/EasyOpenCV.git
